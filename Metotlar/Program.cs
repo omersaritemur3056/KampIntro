@@ -44,3 +44,17 @@ namespace Metotlar
 
 //kendini tekrar ettirecek bir kod yapısıyla karşılaşacağımızı düşünürsek onları bir metot yapıp
 //gerektiğinde çağırmak hatta genişletmek çok yararlı olacaktır
+
+//ref ve out keywordleri değiişken olarak tipin önüne yazılır ref int sayi = 10 gibi
+//bu artık o değişkeni referans tip yapar. ref ve out arasındaki fark; ref'te değişkenlerin
+//set edilmesi yani değerinin başta verilmesi gereklidir ki onu değiştirsin
+//out öyle değildir, değişken olsun yeter. Tabii şu var out metotta varsa o metotta
+//out olacak değişken bir kez set edilmeli yani değeri verilmelidir.
+
+//Metot overloading şudur: Mesela bir toplama işlemi metotunda iki parametreli yazdın bir de
+//aynı isimde üç parametreli yazarsan o metot çağırıldığında iki veya üç parametre alabilir.
+
+//params keywordu sayesinde parametre olarak kısıtmaladan kurtulabiliriz. Mesela metota parametre
+//verirken int sayi1, int sayi 2 yerine params int[] sayilar verirsek parametre sınırı ortadan kalkar.
+// params en sağda olur tıpkı default değişken opsiyonu gibi ama öncesinde değer verilebilişr.
+//Javascript gibi düşün. :)
