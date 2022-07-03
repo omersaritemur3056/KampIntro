@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "Abstract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{C8D78A34-9061-4724-A187-D4CF4247D207}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{783CF50D-4470-4514-8F05-98B0810B8F8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{C8D78A34-9061-4724-A187-D4CF4247D207}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8D78A34-9061-4724-A187-D4CF4247D207}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8D78A34-9061-4724-A187-D4CF4247D207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783CF50D-4470-4514-8F05-98B0810B8F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783CF50D-4470-4514-8F05-98B0810B8F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783CF50D-4470-4514-8F05-98B0810B8F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783CF50D-4470-4514-8F05-98B0810B8F8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
