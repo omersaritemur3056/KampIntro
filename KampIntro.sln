@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAbstractDemo", "In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{783CF50D-4470-4514-8F05-98B0810B8F8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProjectOdevSonucu", "GameProjectOdevSonucu\GameProjectOdevSonucu.csproj", "{E60373CB-4C6E-4819-84A0-617AF676B241}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{783CF50D-4470-4514-8F05-98B0810B8F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{783CF50D-4470-4514-8F05-98B0810B8F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{783CF50D-4470-4514-8F05-98B0810B8F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60373CB-4C6E-4819-84A0-617AF676B241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60373CB-4C6E-4819-84A0-617AF676B241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60373CB-4C6E-4819-84A0-617AF676B241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60373CB-4C6E-4819-84A0-617AF676B241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
